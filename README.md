@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello, I'm Maxim Yukhnovich.👋
+An aspiring young professional burning with enthusiasm, not looking for an easy, but definitely high-quality solution, guided by advanced technologies, ready to find a solution to any question raised. Highly responsible, committed, attentive, and punctual. Ready to improve and raise the bar.
 
-<!--
-**bizhluzdy/bizhluzdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I strive to be better, learn faster, because working as a programmer is the development of oneself from day to day. I know that I still lack all the skills, but that is why I do not stop there.
 
-Here are some ideas to get you started:
+### Languages and Tools
+[![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-17-blue?logo=react)](https://reactjs.org/)
+[![Sass](https://img.shields.io/badge/Sass-SCSS-pink?logo=sass)](https://sass-lang.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)](https://getbootstrap.com/)
+[![Webpack](https://img.shields.io/badge/Webpack-5-blueviolet?logo=webpack)](https://webpack.js.org/)
+[![Babel](https://img.shields.io/badge/Babel-7-yellow?logo=babel)](https://babeljs.io/)
+[![Git](https://img.shields.io/badge/Git-2-orange?logo=git)](https://git-scm.com/)
+[![npm](https://img.shields.io/badge/npm-latest-red?logo=npm)](https://www.npmjs.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Myukhnovich-blue?logo=linkedin)](https://www.linkedin.com/in/myukhnovich/)
+[![discord](https://img.shields.io/badge/discord-hramadzianin96-blue?logo=discord)](https://discord.com/users/hramadzianin96)
+[![GitHub](https://img.shields.io/badge/GitHub-your_username-black?logo=github)](https://github.com/bizhluzdy)
+
+## My portfolio: [check](https://github.com/bizhluzdy/portfolio/blob/main/README.md)
