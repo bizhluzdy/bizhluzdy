@@ -1,4 +1,4 @@
-### Hello, I'm Maxim Yukhnovich.👋
+### Hello, I'm Maxim Yukhnovich.👋 ||| My portfolio: [check](https://github.com/bizhluzdy/portfolio/blob/main/README.md)
 An aspiring young professional burning with enthusiasm, not looking for an easy, but definitely high-quality solution, guided by advanced technologies, ready to find a solution to any question raised. Highly responsible, committed, attentive, and punctual. Ready to improve and raise the bar.
 
 I strive to be better, learn faster, because working as a programmer is the development of oneself from day to day. I know that I still lack all the skills, but that is why I do not stop there.
@@ -19,6 +19,6 @@ I strive to be better, learn faster, because working as a programmer is the deve
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Myukhnovich-blue?logo=linkedin)](https://www.linkedin.com/in/myukhnovich/)
 [![discord](https://img.shields.io/badge/discord-hramadzianin96-blue?logo=discord)](https://discord.com/users/hramadzianin96)
-[![GitHub](https://img.shields.io/badge/GitHub-your_username-black?logo=github)](https://github.com/bizhluzdy)
+[![Gmail](https://img.shields.io/badge/Gmail-yukhnovich.work%40gmail.com-red?logo=gmail)](mailto:yukhnovich.work@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-hrmd94-blue?logo=telegram)](https://t.me/hrmd94)
 
-## My portfolio: [check](https://github.com/bizhluzdy/portfolio/blob/main/README.md)
