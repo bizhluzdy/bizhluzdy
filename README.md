@@ -1,4 +1,4 @@
-### Hello, I'm Maxim Yukhnovich.👋 ||| My portfolio: [check](https://github.com/bizhluzdy/portfolio/blob/main/README.md)
+### Hello, I'm Maxim Yukhnovich, junior Front-end Developer 👋 ||| My portfolio: [check](https://github.com/bizhluzdy/portfolio/blob/main/README.md)
 An aspiring young professional burning with enthusiasm, not looking for an easy, but definitely high-quality solution, guided by advanced technologies, ready to find a solution to any question raised. Highly responsible, committed, attentive, and punctual. Ready to improve and raise the bar.
 
 I strive to be better, learn faster, because working as a programmer is the development of oneself from day to day. I know that I still lack all the skills, but that is why I do not stop there.
